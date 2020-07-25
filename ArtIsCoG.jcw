@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArtIsCoG</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArtIsCoG.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArtIsCoG.jcp</path>
+		</project>
+	</projects>
+</workspace>
